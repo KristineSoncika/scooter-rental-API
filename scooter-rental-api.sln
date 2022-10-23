@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScooterRental.Core", "ScooterRental.Core\ScooterRental.Core.csproj", "{82F46753-5111-4F9F-8314-8FA0D1DD6F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScooterRental", "ScooterRental\ScooterRental.csproj", "{0516F139-ED94-4A28-80E0-B6485F94B892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScooterRental.Data", "ScooterRental.Data\ScooterRental.Data.csproj", "{E15F0E40-181E-4F46-89B5-69198413E02E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScooterRental.Services", "ScooterRental.Services\ScooterRental.Services.csproj", "{FB7E60FA-7302-4658-889B-84053EA4E106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F46753-5111-4F9F-8314-8FA0D1DD6F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F46753-5111-4F9F-8314-8FA0D1DD6F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F46753-5111-4F9F-8314-8FA0D1DD6F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F46753-5111-4F9F-8314-8FA0D1DD6F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0516F139-ED94-4A28-80E0-B6485F94B892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0516F139-ED94-4A28-80E0-B6485F94B892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0516F139-ED94-4A28-80E0-B6485F94B892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0516F139-ED94-4A28-80E0-B6485F94B892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E15F0E40-181E-4F46-89B5-69198413E02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15F0E40-181E-4F46-89B5-69198413E02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15F0E40-181E-4F46-89B5-69198413E02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15F0E40-181E-4F46-89B5-69198413E02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7E60FA-7302-4658-889B-84053EA4E106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7E60FA-7302-4658-889B-84053EA4E106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7E60FA-7302-4658-889B-84053EA4E106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7E60FA-7302-4658-889B-84053EA4E106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
